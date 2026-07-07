@@ -1,0 +1,27 @@
+{
+  "identifier": "Swatchbook",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "$6.99",
+      "familyShareable": false,
+      "internalID": "1",
+      "localizations": [
+        {
+          "description": "Client-facing shareable swatch boards",
+          "displayName": "Swatchbook Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.swatchbook.pro",
+      "referenceName": "Swatchbook Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
